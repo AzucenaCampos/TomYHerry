@@ -1,14 +1,3 @@
-# Investigamos como hacer para convertir los gramos en joules, pero encontramos que son dos tipos de
-#unidades diferentes y no hay ninguna conversion concreta, por eso damos por hecho que podemos mezclarlos.
-#el calculo que hicimos fue: energiaTom = energiaTom + pesoRaton + joules.
-
-'''
-INTEGRANTES DEL GRUPO AVENGERS:
-Romina Luna - romiluna04@gmail.com
-Gabriela Martinez Soliz - gms.martinez18@gmail.com
-Natalia Villafañe - nataliavillafane05@gmail.com
-Azucena Panez Campos - azucenadelrosario95@gmail.com'''
-
 
 import tomFuncion
 print("")
